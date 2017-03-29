@@ -15,4 +15,4 @@ description: Advanced Functional Programming
 * [Monads (part 1)](monads.html)
 * [Staging (part 1)](staging.html)
 * [Staging (part 2)](staging2.html)
-* [Staging (part 3)](staging3.html)
+
